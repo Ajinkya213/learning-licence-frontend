@@ -1,0 +1,15 @@
+.logo-wrapper {
+  position: relative;
+}
+
+.logo-bg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  background-color: white;
+  border-radius: 50%;
+  z-index: -1; /* Ensure it's behind the image */
+}

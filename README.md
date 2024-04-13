@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# MCQ Test React Frontend Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+This project is a React frontend application designed to facilitate multiple-choice question (MCQ) tests for learning license preparation. It provides a user-friendly interface for learners to practice and improve their knowledge in preparation for obtaining a learning license.
 
-## Available Scripts
+## Project Overview
+The main goal of the project is to create an interactive platform where users can attempt MCQ tests related to learning license exams. The application offers a variety of questions covering different topics relevant to the learning license curriculum. Users can select specific categories or topics to focus their practice sessions.
 
-In the project directory, you can run:
+## Technologies Used
+React.js
+HTML5
+CSS3
+JavaScript
+Project Structure
+The project follows a modular structure, with separate components for different features such as:
 
-### `npm start`
+0. Landing page
+1. Question display
+2. Answer selection
+3. Result display
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Usage
+To use the MCQ Test React Frontend Client:
 
-### `npm test`
+* Clone the repository to your local machine.
+* Navigate to the project directory.
+* Install dependencies using `npm install`.
+* Start the development server using `npm run start`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Contributors
+[Ajinkya Bhushan](https://github.com/ajinkya213)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Acknowledgements
+- Special thanks to [Parivahan Sewa](https://parivahan.gov.in/parivahan/) for providing the question-bank in public domain.
+- [Bob Ziroll](https://github.com/bobziroll) for teaching and guiding with Scrimba React course [link](https://scrimba.com/learn/learnreact)
